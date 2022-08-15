@@ -1,6 +1,6 @@
 # Match Email Address Using Regular expression
 
-TRhis tutorial is explaining the use of Regex to match emails using expressions `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})(\.([a-z\.]{2,6}))?$/`. This can be useful when validating emails using applications/technologies such as Node (Inqurier) or MongoDB.
+This tutorial is explaining the use of Regex to match emails using expressions `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})(\.([a-z\.]{2,6}))?$/`. This can be useful when validating emails using applications/technologies such as Node (Inqurier) or MongoDB.
 
 ## Summary
 
